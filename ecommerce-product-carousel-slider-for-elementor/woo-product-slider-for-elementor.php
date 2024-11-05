@@ -5,10 +5,13 @@
  * Author: Plugin Devs
  * Author URI: https://plugin-devs.com/
  * Plugin URI: https://plugin-devs.com/product/woocommerce-product-carousel-elementor/
- * Version: 2.1.2
+ * Version: 2.1.3
  * License: GPLv2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wpce
+ * 
+ * Elementor tested up to: 3.25.4
+ * Elementor Pro tested up to: 3.25.2
 */
 
  // Exit if accessed directly.
@@ -44,9 +47,9 @@ class WPCE_SLIDER
  	public function defined_constants(){
  		define( 'WPCE_PATH', plugin_dir_path( __FILE__ ) );
 		define( 'WPCE_URL', plugin_dir_url( __FILE__ ) ) ;
-		define( 'WPCE_VERSION', '2.1.2' ) ; //Plugin Version
-		define( 'WPCE_MIN_ELEMENTOR_VERSION', '2.0.0' ) ; //MINIMUM ELEMENTOR Plugin Version
-		define( 'WPCE_MIN_PHP_VERSION', '5.4' ) ; //MINIMUM PHP Plugin Version
+		define( 'WPCE_VERSION', '2.1.3' ) ; //Plugin Version
+		define( 'WPCE_MIN_ELEMENTOR_VERSION', '3.0.0' ) ; //MINIMUM ELEMENTOR Plugin Version
+		define( 'WPCE_MIN_PHP_VERSION', '7.4' ) ; //MINIMUM PHP Plugin Version
 		define( 'WPCE_PRO_LINK', 'https://plugin-devs.com/product/woocommerce-product-carousel-elementor/' ) ; //Pro Link
  	}
 

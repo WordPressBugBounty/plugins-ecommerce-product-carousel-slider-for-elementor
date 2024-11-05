@@ -1,9 +1,9 @@
 Product Carousel Slider for Elementor
 Tags: elementor product carousel slider, elementor woocommerce product carousel slider, woocommerce product carousel slider
 Requires at least: 5.0 or higher
-Tested up to: 6.4.3
+Tested up to: 6.7
 Stable tag: /trunk
-Requires PHP: 5.4
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Contributors: plugindevs
@@ -71,10 +71,14 @@ There is also a [Pro Version](https://plugin-devs.com/product/woocommerce-produc
 
 > <strong>[Upgrade to Pro!](https://plugin-devs.com/product/woocommerce-product-carousel-elementor/)</strong> 
 
-** We welcome your feedback and new feature requests to improve the plugin! Please contact with us at <a href='mailto: webbuilders03@gmail.com
-'><strong>webbuilders03@gmail.com</strong></a> for new <strong>Feature Requests</strong>**
+** We welcome your feedback and new feature requests to improve the plugin! Please contact with us at <a href='mailto: devs.plugin@gmail.com'><strong>devs.plugin@gmail.com</strong></a> for new <strong>Feature Requests</strong>**
 
 == Changelog ==
+= 2.1.3 (11-05-24) =
+# Compatible with WordPress Latest Version
+# Compatible with Elementor Latest Version
+# Compatible with Elementor PRO Latest Version
+
 = 2.1.2 (02-16-24) =
 # Tweak CSS
 # Compatible with WordPress Latest Version
